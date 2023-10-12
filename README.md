@@ -1,3 +1,7 @@
+
+HOME PAGE:
+![Web capture_12-10-2023_2137_localhost](https://github.com/VishalYadav1311/Video-hub/assets/66304976/a9b73a80-68b9-487e-b5c9-2f9e29fbc91f)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
